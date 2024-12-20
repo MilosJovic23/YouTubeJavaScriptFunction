@@ -1,5 +1,5 @@
 // das
-let imeProizvoda = "Tastatura"; // string
+let imeProizvoda  = "Tastatura"; // string
 let cena = 50; // integer
 let tezina = 255.55; // float
 let porez = 0.2;
